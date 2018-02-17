@@ -1,0 +1,17 @@
+#one{
+  background-color: black;
+  color:white;
+  font-size: 20px;
+}
+#two{
+  background-color: red;
+  color:white;
+  font-size: 20px; 
+}
+#three{
+  background-color: yellow;
+  font-size: 60px; 
+}
+.intro{
+  background-color: blue !important;
+}
